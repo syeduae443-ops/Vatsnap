@@ -1,0 +1,11 @@
+name: vatsnap
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5
+  google_mlkit_text_recognition: ^0.13.0
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  excel: ^4.0.2
+  csv: ^6.0.0
+  permission_handler: ^11.3.0
