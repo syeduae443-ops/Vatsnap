@@ -1,0 +1,25 @@
+name: vatsnap
+description: VAT to Tally Prime App for Dubai
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+9
+  google_mlkit_text_recognition: ^0.13.1
+  path_provider: ^2.1.2
+  csv: ^6.0.0
+  share_plus: ^10.0.2
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
